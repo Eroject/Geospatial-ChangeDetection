@@ -1,0 +1,18 @@
+<PAMDataset>
+  <SRS>PROJCS["Nord_Maroc",GEOGCS["GCS_Merchich",DATUM["Merchich",SPHEROID["Clarke_1880_IGN",6378249.2,293.4660212936265,AUTHORITY["EPSG","7011"]],AUTHORITY["EPSG","6261"]],PRIMEM["Greenwich",0.0,AUTHORITY["EPSG","8901"]],UNIT["Grad",0.01570796326794897,AUTHORITY["EPSG","9105"]],AUTHORITY["EPSG","4261"]],PROJECTION["Lambert_Conformal_Conic_1SP",AUTHORITY["Esri","43020"]],PARAMETER["False_Easting",500000.0,AUTHORITY["Esri","100001"]],PARAMETER["False_Northing",300000.0,AUTHORITY["Esri","100002"]],PARAMETER["Central_Meridian",-6.0,AUTHORITY["Esri","100010"]],PARAMETER["Scale_Factor",0.999625769,AUTHORITY["Esri","100003"]],PARAMETER["Latitude_Of_Origin",37.0,AUTHORITY["Esri","100021"]],UNIT["Meter",1.0,AUTHORITY["EPSG","9001"]],AUTHORITY["EPSG","26191"]]</SRS>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>changement</Description>
+    <NoDataValue>-2.14748364800000E+09</NoDataValue>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="PIXELTYPE">SIGNEDBYTE</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
