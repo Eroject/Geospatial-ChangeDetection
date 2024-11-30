@@ -3,7 +3,7 @@
 ## Description
 Ce projet vise à développer une carte de classification de l'occupation des sols et à analyser les changements dans une zone géographique spécifique, en utilisant des images satellitaires et des données géospatiales complémentaires. Le traitement et l'analyse des données ont été réalisés grâce à des méthodes avancées d'extraction d'information, de traitement d'image et de géostatistique.
 
-L'étude fournit des insights précieux sur l'évolution de l'utilisation du sol, pouvant être exploites à des fins d'urbanisme, de gestion environnementale ou de suivi de l'évolution territoriale.
+L'étude fournit des cartes sur l'évolution de l'utilisation du sol, pouvant être exploites à des fins d'urbanisme, de gestion environnementale ou de suivi de l'évolution territoriale.
 
 ## Structure du Projet
 Le projet est organisé en plusieurs sous-dossiers, chacun ayant un rôle spécifique :
